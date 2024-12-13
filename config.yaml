@@ -1,0 +1,9 @@
+input_paths:
+  charges: "data/input/Charges_use.csv"
+  endorsements: "data/input/Endorse_use.csv"
+  restrict: "data/input/Restrict_use.csv"
+  damages: "data/input/Damages_use.csv"
+  primary_person: "data/input/Primary_Person_use.csv"
+  unit: "data/input/Units_use.csv"
+
+output_path: "data/output"
