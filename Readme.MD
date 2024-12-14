@@ -64,6 +64,8 @@ This project performs crash data analytics using PySpark. It provides 10 specifi
 
 ## 🚀 Running the Application
 
+### 📥 Install All Required Prerequisites
+
 ### 📥 Install All Python Dependencies
 ```bash
 pip install -r requirements.txt
